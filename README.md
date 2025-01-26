@@ -1,4 +1,4 @@
-# Psychological Operations Research 🧠
+# Mind Control - Psychological Operations Research 🧠
 
 This repository contains comprehensive research and analysis on psychological operations, with a specific focus on understanding and identifying mind control techniques. The primary purpose of this research is educational: to help individuals recognise potential psychological manipulation and protect themselves through awareness and understanding.
 
