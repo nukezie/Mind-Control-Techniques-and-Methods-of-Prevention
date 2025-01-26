@@ -1,23 +1,12 @@
 # Psychological Operations Research 🧠
 
-This repository contains comprehensive research and analysis on psychological operations, with a specific focus on understanding and identifying mind control techniques. The primary purpose of this research is educational: to help individuals recognize potential psychological manipulation and protect themselves through awareness and understanding.
+This repository contains comprehensive research and analysis on psychological operations, with a specific focus on understanding and identifying mind control techniques. The primary purpose of this research is educational: to help individuals recognise potential psychological manipulation and protect themselves through awareness and understanding.
 
 ## ⚠️ Important Notice
 
 This research is intended **SOLELY** for protective and defensive purposes. Understanding these techniques helps identify and protect against them. The knowledge contained here should **NEVER** be used to manipulate or harm others.
 
-## 📚 Research Background
-
-This research draws insights from various academic sources in psychology and behavioral studies, including concepts discussed in "Dark Psychology" literature. The analysis and protective strategies presented here are influenced by the comprehensive work "Dark Psychology: 6 Books in 1" which covers:
-- Introduction to Psychology
-- Human Behavior Analysis
-- Manipulation Recognition
-- Dark Psychology Awareness
-- Emotional Intelligence
-- Cognitive Behavioral Therapy
-- Understanding Emotional and Narcissistic Abuse
-
-Our focus is on translating these concepts into practical defensive strategies for protection and awareness.
+My focus is on translating these concepts into practical defensive strategies for protection and awareness.
 
 ## Purpose & Scope 🎯
 
