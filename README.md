@@ -177,14 +177,6 @@ This visual approach makes complex manipulation patterns more recognizable and e
 3. Review diagrams for visual learning
 4. Apply knowledge for protective purposes only
 
-## Contributing 🤝
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License ⚖️
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Resources & References 📖
 
 ### Primary Reference
@@ -212,3 +204,12 @@ All information presented is adapted and restructured specifically for protectiv
 ## Disclaimer ⚠️
 
 This repository is for educational and protective purposes only. The content is designed to help individuals identify and protect themselves from psychological manipulation. This research should be used responsibly and ethically, with the sole purpose of protection and awareness. It should never be used to harm or manipulate others. If you believe you are experiencing manipulation, seek professional help. 
+
+
+## Contributing 🤝
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## License ⚖️
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
